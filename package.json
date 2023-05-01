@@ -7,7 +7,14 @@
 		"email": "me@samuelmeuli.com",
 		"url": "https://samuelmeuli.com"
 	},
-	"repository": "github:samuelmeuli/action-electron-builder",
+	"contributors": [
+		{
+			"name": "Dušan Simić",
+			"email": "dusan.simic1810@gmail.com",
+			"url": "https://dusansimic.me"
+		}
+	],
+	"repository": "github:dusansimic/action-electron-builder",
 	"license": "MIT",
 	"private": true,
 	"main": "./index.js",

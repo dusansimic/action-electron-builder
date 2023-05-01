@@ -1,5 +1,8 @@
 # Electron Builder Action
 
+>**Note**
+>This is a fork of the original project. I plan on maintaining it for personal use. It's not meant to be maintained for public use. If you find some bugs, you may report them on the bug tracker but there are no promises that I'll fix them. I'll only fix bugs that affect me. Also don't request any new features, suggestions are welcome but I don't plan on extending the action.
+
 **GitHub Action for building and releasing Electron apps**
 
 This is a GitHub Action for automatically building and releasing your Electron app using GitHub's CI/CD capabilities. It uses [`electron-builder`](https://github.com/electron-userland/electron-builder) to package your app and release it to a platform like GitHub Releases.
@@ -160,6 +163,12 @@ For an example of the action used in production (including app notarization and 
 ## Development
 
 Suggestions and contributions are always welcome! Please discuss larger changes via issue before submitting a pull request.
+
+## Credits
+
+Maintainer: [Dušan Simić](https://github.com/dusansimic)
+
+Original author: [Samuel Meuli](https://github.com/samuelmeuli)
 
 ## Related
 
