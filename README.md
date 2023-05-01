@@ -1,7 +1,6 @@
 # Electron Builder Action
 
->**Note**
->This is a fork of the original project. I plan on maintaining it for personal use. It's not meant to be maintained for public use. If you find some bugs, you may report them on the bug tracker but there are no promises that I'll fix them. I'll only fix bugs that affect me. Also don't request any new features, suggestions are welcome but I don't plan on extending the action.
+> **Note** This is a fork of the original project. I plan on maintaining it for personal use. It's not meant to be maintained for public use. If you find some bugs, you may report them on the bug tracker but there are no promises that I'll fix them. I'll only fix bugs that affect me. Also don't request any new features, suggestions are welcome but I don't plan on extending the action.
 
 **GitHub Action for building and releasing Electron apps**
 
